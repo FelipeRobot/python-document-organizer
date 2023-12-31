@@ -1,6 +1,7 @@
 import os
 import shutil
 
+#If you want to change the extension or the folders names, change the values in this dictionary
 extensiones_dict = {
     '.txt' : 'documentos',
     '.docx': 'documentos',
@@ -10,7 +11,7 @@ extensiones_dict = {
     '.exe' : 'ejecutable'
 }
 predeterminated = 'otros'
-
+#In order to use this script, change the route to the one you want to organize
 carpeta_organizar_ruta = r'C:\Users\Felip\Downloads' 
 archivos = os.listdir(carpeta_organizar_ruta)
 
