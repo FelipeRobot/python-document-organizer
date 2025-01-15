@@ -1,4 +1,13 @@
 Little script for organizing archives in folders.
+
+
+
+
+
+
+
+
+
 ------------------------------------------------
 Before you use this little tool:
 1- Edit the 'predeterminated' variable with the route of the folder you want to organize.
